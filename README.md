@@ -1,4 +1,4 @@
-#AI-Python
+# AI-Python
 AI-Python é uma API para chat entre um cliente de uma Pizzaria e a inteligência artificial. 
 Ele usa a API openai.ChatCompletion para gerar respostas naturais e envolventes com base em um dado prompt e contexto. 
 O cliente será atendido de forma totalmente autonoma e seu pedido será realizado e encaminhado para o despacho. 
