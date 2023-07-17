@@ -4,7 +4,7 @@ Ele usa a API openai.ChatCompletion para gerar respostas naturais e envolventes 
 O cliente será atendido de forma totalmente autonoma e seu pedido será realizado e encaminhado para o despacho. 
 Pode-se configurar a AI com diferentes modelos, como gpt-3.5-turbo, e personalizar o parâmetro de temperatura, que controla o grau de aleatoriedade da saída do modelo.
 
-Instalação
+## Instalação
 Para usar o AI-Python, você precisa ter o Python 3 instalado no seu sistema. Você também precisa instalar os seguintes pacotes:
 
 openai
